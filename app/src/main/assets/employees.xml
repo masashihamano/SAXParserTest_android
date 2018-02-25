@@ -1,0 +1,26 @@
+<employees>
+    <employee>
+        <id>101</id>
+        <name>Abhi</name>
+        <desig>Teacher</desig>
+        <dept>IT</dept>
+    </employee>
+    <employee>
+        <id>102</id>
+        <name>Nobu</name>
+        <desig>Student</desig>
+        <dept>CS</dept>
+    </employee>
+    <employee>
+        <id>103</id>
+        <name>Raj</name>
+        <desig>Teacher</desig>
+        <dept>IT</dept>
+    </employee>
+    <employee>
+        <id>104</id>
+        <name>Masa</name>
+        <desig>Student</desig>
+        <dept>CS</dept>
+    </employee>
+</employees>
